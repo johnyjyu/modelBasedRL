@@ -1,5 +1,8 @@
-# modelBasedRL
-Model-Based RL
+# Model-Based RL
+
+Keys papers in model based RL from openAI spinningup
+
+https://spinningup.openai.com/en/latest/spinningup/rl_intro2.html#citations-below
 
 [12]	World Models: Ha and Schmidhuber, 2018
 
